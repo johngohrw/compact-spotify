@@ -1,0 +1,97 @@
+:not(.artist-artistOverview-overview)
+  > .main-entityHeader-container
+  .main-entityHeader-title
+  h1 {
+  font-size: 36px !important;
+  line-height: initial !important;
+}
+
+.playlist-playlist-playlistImageContainer {
+  width: 132px !important;
+  height: 132px !important;
+  min-width: unset !important;
+}
+
+:not(.artist-artistOverview-overview) > .main-entityHeader-container {
+  height: 210px !important;
+  max-height: unset !important;
+  min-height: unset !important;
+  padding-bottom: 16px !important;
+}
+
+.main-entityHeader-imageContainer {
+  width: 132px !important;
+  height: 132px !important;
+  min-width: unset !important;
+}
+
+:not(.artist-artistOverview-overview)
+  > .main-entityHeader-container
+  .main-entityHeader-headerText {
+  align-self: flex-start;
+  margin-top: 58px;
+  height: 142px;
+  justify-content: flex-start !important;
+}
+
+.artist-artistOverview-overview
+  > .main-entityHeader-container
+  .main-entityHeader-headerText {
+  justify-content: center !important;
+}
+
+.main-trackList-trackListRow {
+  height: 42px !important;
+}
+
+.main-trackList-rowImage {
+  height: 32px !important;
+  width: 32px !important;
+}
+
+.main-trackList-rowTitle {
+  font-size: 14px !important;
+  line-height: 18px !important;
+}
+
+.main-trackList-rowSubTitle {
+}
+
+.main-trackList-rowSubTitle a {
+  color: #cacaca !important;
+}
+
+.contentSpacing {
+  padding: 0 18px;
+}
+
+.main-actionBar-ActionBar {
+  padding-bottom: 4px !important;
+  padding-top: 8px !important;
+}
+
+.main-trackInfo-artists {
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.main-trackInfo-artists a {
+  color: #cacaca !important;
+}
+
+.main-playButton-PlayButton {
+  --size: 42px !important;
+}
+
+
+.profile-userOverview-imageContainer {
+  height: 132px !important;
+  min-width: unset !important;
+  width: 132px !important;
+}
+
+.main-gridContainer-gridContainer {
+  grid-gap: 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px,1fr));
+}
