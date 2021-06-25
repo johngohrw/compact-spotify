@@ -6,7 +6,7 @@ Default look of Spotify ...but compacted. Lets you see more with what little scr
 
 A [spicetify](https://github.com/khanhas/spicetify-cli) theme. Basically a Spotify extension that lets you change Spotify however you want to. Head there for more info.
 
-Looks good with -2 zoom too (press CTRL+minus twice).
+Looks good with -1 or -2 zoom too (press CTRL+minus once or twice).
 
 ## More images
 
